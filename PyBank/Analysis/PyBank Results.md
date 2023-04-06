@@ -1,4 +1,4 @@
-Results after running python code to calculate the total months, the total net number of profit/losses, the average changes in profit/losses, the greatest increase in profits and the greatest decrease in profits.
+Results after running Python Script to calculate the total months, the total net number of profit/losses, the average changes in profit/losses, the greatest increase in profits and the greatest decrease in profits.
 
 Total Months: 86
 Net Total Amount: $22,564,198
