@@ -1,0 +1,12 @@
+Results after running the Python code to determine the total number of votes casted, the list of condidates that receieved votes with a percentage of the total votes and total amount. Then at the end calculated who won the election.
+
+Election Results
+-------------------------
+Total Votes: 369711
+-------------------------
+Charles Casper Stockham: 23.049% (85213)
+Diana DeGette: 73.812% (272892)
+Raymon Anthony Doane: 3.139% (11606)
+-------------------------
+Winner: Diana DeGette
+-------------------------
