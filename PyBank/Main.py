@@ -1,6 +1,6 @@
 import csv
 
-with open("/Resources/budget_data.csv", "r") as csv_file:
+with open("Python-Challenge/PyBank/Resources/budget_data.csv", "r") as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
 
     next(csv_reader)
